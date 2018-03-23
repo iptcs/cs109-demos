@@ -79,6 +79,6 @@ def play_game():
         new_player_loc = move(player_row, player_col, direction)
         player_row = new_player_loc[0]
         player_col = new_player_loc[1]
-    print("You made it out")
+    print("Your mother was a hamster")
 
 play_game()
