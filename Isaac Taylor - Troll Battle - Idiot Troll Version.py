@@ -3,7 +3,7 @@
 
 # Default stats for both characters
 player_stats = {
-    "Name" : "The Hero",
+    "Name" : "La Hero",
     "Health" : 20,
     "Power" : 4,
     "Defense" : False,
